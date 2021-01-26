@@ -2,21 +2,21 @@
 
 ### URL (Uniform Resource Locator)
 
-- 절대 URL
+- 절대 URL<br>
   `http://joes-warehouse.com/tools.html`
-- 상대 URL: tools.html 안의 HTML tag
-  `<a href="./hammaers.html">`
+- 상대 URL: tools.html 안의 HTML tag <br>
+  `<a href="./hammaers.html">`<br>
   : 새로운 절대 경로는 `http://joes-warehouse.com/hammers.html` 가 되는 것
 - 인터넷의 리소스를 가리키는 표준 이름으로 전자 정보의 장소, 접근 방식을 알려줌
 - '스킴://서버위치/경로'
 
 ![](https://images.velog.io/images/wltjs10645/post/ad7b017d-3b49-4c8c-9971-06f74a553adf/image.png)
 
-- scheme: 웹 클라이언트가 리소스에 어떻게 접근하는지 알려줌. (e.g. HTTP, FTP, SMTP)
-- host: 서버의 위치.리소스가 어디에 호스팅 되어 있는 지 알 수 있음.
-- route: 리소스의 경로.
+- **scheme**: 웹 클라이언트가 리소스에 어떻게 접근하는지 알려줌. (e.g. HTTP, FTP, SMTP)
+- **host**: 서버의 위치.리소스가 어디에 호스팅 되어 있는 지 알 수 있음.
+- **route**: 리소스의 경로.
 
-### 스킴!
+### Scheme
 
 | 스킴  | 내용                                                                                                                                                             |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
