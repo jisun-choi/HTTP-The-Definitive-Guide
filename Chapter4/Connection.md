@@ -15,13 +15,14 @@
 
 1.  TCP 는 바이트들을 순서에 맞게 정확히 전달한다.
 2.  TCP 는 데이터 스트림을 segment 단위로 나눠서 IP 패킷이라는 봉투에 담아 데이터를 전달한다. <br>
-    **IP packet** <br>
 
-    - IP header (20bytes)
-    - TCP header (20bytes)
-    - TCP data
+**IP packet** <br>
 
-      ![](https://images.velog.io/images/wltjs10645/post/edf82f6f-a941-4cae-8d67-66f9de3bbe9b/image.png)
+- IP header (20bytes)
+- TCP header (20bytes)
+- TCP data
+
+![](https://images.velog.io/images/wltjs10645/post/edf82f6f-a941-4cae-8d67-66f9de3bbe9b/image.png)
 
 3.  TCP 커넥션 유지
     port # 를 통해 여러 개의 커넥션을 유지한다. <br>
