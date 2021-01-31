@@ -3,8 +3,8 @@
 - HTTP 는 클라이언트 & 서버 사이에 프락시, 캐시 서버와 같이 중개 서버가 놓이는 것을 허용하는데 커넥션 관리를 위해 Http connection header 를 사용한다.
 - 다시 말해, 커넥션 헤더에는 특정 커넥션에만 해당하는 옵션 지정이 가능하다.
 - 커넥션 관리를 제대로 하지 않으면 TCP 성능 저하의 주요 원인이 된다. <br>
-  (e.g. 순차적인 트랜젝션 처리로 인한 지연 이슈)
-  \*\* http 커넥션의 성능 향상을 위한 기술들
+  (e.g. 순차적인 트랜젝션 처리로 인한 지연 이슈) <br>
+  **http 커넥션의 성능 향상을 위한 기술들** <br>
   - parallel connection: 여러 개의 TCP 커넥션으로 동시 HTTP 요청
   - persistent connection: 커넥션의 맺고 끊음으로 인한 지연을 방지하기 위해 TCP 커넥션을 재활용
   - pipelined connection: 공유 TCP 커넥션을 통해 병렬 HTTP 요청
