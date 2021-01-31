@@ -7,3 +7,4 @@ HTTP 완벽가이드를 읽고 정리한 내용입니다.
 [3장 HTTP 메세지](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter3/HTTP_message.md)<br>
 4장 커넥션 관리
 - [TCP 커넥션](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter4/Connection.md)
+- [HTTP 커넥션](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter4/HTTP_connection.md)
