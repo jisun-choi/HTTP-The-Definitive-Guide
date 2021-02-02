@@ -15,3 +15,4 @@ HTTP 완벽가이드를 읽고 정리한 내용입니다.
 ## 2. HTTP 아키텍처
 
 [5장 웹서버](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter5/Web_server.md)
+[6장 프록시](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter6/proxy.md) - 내용 추가 필요
