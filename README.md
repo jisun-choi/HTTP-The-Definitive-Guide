@@ -16,4 +16,5 @@ HTTP 완벽가이드를 읽고 정리한 내용입니다.
 
 [5장 웹서버](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter5/Web_server.md) <br>
 [6장 프록시](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter6/proxy.md) - 내용 추가 필요 <br>
-[7장 캐시](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter7/Cache.md)
+[7장 캐시](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter7/Cache.md)<br>
+[8장 통합점: 게이트웨이, 터널, 릴레이](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter8/%20IntegrationPoints.md)<br>
