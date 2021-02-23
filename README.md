@@ -20,3 +20,6 @@ HTTP 완벽가이드를 읽고 정리한 내용입니다.
 [8장 통합점: 게이트웨이, 터널, 릴레이](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter8/%20IntegrationPoints.md)<br>
 [9장 웹 로봇]() - 추후 보완<br>
 [10장 HTTP/2.0](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter10/HTTP_2.0.md)<br>
+
+## 3. 식별, 인가, 보안
+[11장 클라이언트 식별과 쿠키](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter11/Client_Identification_and_Cookies.md)
