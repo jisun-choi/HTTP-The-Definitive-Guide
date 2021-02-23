@@ -22,4 +22,6 @@ HTTP 완벽가이드를 읽고 정리한 내용입니다.
 [10장 HTTP/2.0](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter10/HTTP_2.0.md)<br>
 
 ## 3. 식별, 인가, 보안
-[11장 클라이언트 식별과 쿠키](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter11/Client_Identification_and_Cookies.md)
+[11장 클라이언트 식별과 쿠키](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter11/Client_Identification_and_Cookies.md)<br>
+12장 기본 인증 <br>
+[13장 다이제스트 인증](https://github.com/jisun-choi/HTTP-The-Definitive-Guide/blob/main/Chapter13/Digest_Authentication.md) - 내용 추가 필요<br>
